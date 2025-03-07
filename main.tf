@@ -26,5 +26,5 @@ variable "access_key" { }
 variable "secret_key" { }
 variable "my_ami" {
    type = string
-   default = "ami-05fa46471b02db0ce""
+   default = "ami-05fa46471b02db0ce"
 }
